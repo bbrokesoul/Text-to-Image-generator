@@ -4,7 +4,7 @@ This project lets you **train your own AI image generator** using a small image 
 You upload **50–70 images**, train the model for a few minutes, and then generate new images through a **simple web interface**.
 
 🎥 **Demo Video:**
-👉 *(Paste your video link here)*
+👉 *(https://drive.google.com/file/d/1LOb5A00YE-CCoEXJewo6cEpx4I931Hpy/view?usp=sharing)*
 
 ---
 
