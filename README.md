@@ -31,8 +31,8 @@ No command-line ML knowledge is required to use it — everything is done via a 
 ├── requirements.txt           # Python dependencies
 ├── taylor_swift_135 (1).zip   # Example dataset (for testing)
 ├── uploads/                   # Uploaded training ZIP files
-├── outputs/                   # Generated images (auto-created)
-├── lora_model/                # Trained LoRA weights (auto-created)
+├── outputs/                   # Generated images (auto-created after prompting for images)
+├── lora_model/                # Trained LoRA weights (auto-created after training the model)
 └── train_log.txt              # Training logs
 ```
 
